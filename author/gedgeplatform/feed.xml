@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/author/gedgeplatform/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2022-12-19T23:36:28+09:00</updated>
+  <id>http://localhost:4000/author/gedgeplatform/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">GEdge Platform | </title>
+  
+
+  
+    <subtitle>An Open Cloud Edge SW Plaform to enable Intelligent Edge Service</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">GEdge Platform 기술 공유</title>
+      <link href="http://localhost:4000/blog-basic" rel="alternate" type="text/html" title="GEdge Platform 기술 공유" />
+      <published>2021-06-24T18:17:00+09:00</published>
+      <updated>2021-06-24T18:17:00+09:00</updated>
+      <id>http://localhost:4000/blog-basic</id>
+      <content type="html" xml:base="http://localhost:4000/blog-basic">&lt;h4&gt;To be Updated &lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>gedgeplatform</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blog" />
+      
+
+      
+        <summary type="html">To be Updated</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
