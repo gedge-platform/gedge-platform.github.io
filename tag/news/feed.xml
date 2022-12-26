@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://localhost:4000/tag/news/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-12-19T23:43:40+09:00</updated>
+  <updated>2022-12-26T18:24:54+09:00</updated>
   <id>http://localhost:4000/tag/news/feed.xml</id>
 
   
@@ -34,6 +34,56 @@
 
   
     <entry>
+      <title type="html">GEdge Platform 5차 컨퍼런스</title>
+      <link href="http://localhost:4000/news-5thconference" rel="alternate" type="text/html" title="GEdge Platform 5차 컨퍼런스" />
+      <published>2022-12-18T19:18:00+09:00</published>
+      <updated>2022-12-18T19:18:00+09:00</updated>
+      <id>http://localhost:4000/news-5thconference</id>
+      <content type="html" xml:base="http://localhost:4000/news-5thconference">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-1stconference&quot;&gt;GEdge Platform 제1차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-1stconfrelease&quot;&gt;GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-1strelease&quot;&gt;GEdge Platform v1.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconfrelease&quot;&gt;GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndrelease&quot;&gt;GEdge Platform v1.5 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-3rdconference&quot;&gt;GEdge Platform 제3차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/built/images/5th_conference1.jpg&quot; alt=&quot;5th-Conference1&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;
+&lt;img src=&quot;../../assets/built/images/5th_conference2.jpg&quot; alt=&quot;5th-Conference2&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="news" />
+      
+
+      
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">GEdge Platform 4차 컨퍼런스 발표자료</title>
       <link href="http://localhost:4000/news-4thconfrelease" rel="alternate" type="text/html" title="GEdge Platform 4차 컨퍼런스 발표자료" />
       <published>2022-09-02T19:18:00+09:00</published>
@@ -51,6 +101,7 @@
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;GEdge 플랫폼 제4차 컨퍼런스에 참석해 주셔서 감사합니다. &lt;/h4&gt;
@@ -92,7 +143,7 @@
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge 플랫폼 제4차 컨퍼런스에 참석해 주셔서 감사합니다. 지난 9월 1일 GEdge 플랫폼 커뮤니티 4차 컨퍼런스인 “클라우드 엣지 컴퓨팅 에코시스템 활성화를 위한 GEdge Platform 커뮤니티 제4회 컨퍼런스” 행사가 온라인으로 진행되었습니다. 사전 등록 및 참석해 주신 모든 분들께 진심으로 감사드립니다. GEdge 플랫폼 제4차 컨퍼런스 발표자료 및 영상 공유 발표자료 제4차 컨퍼런스 발표자료 바로가기 발표영상 제4차 컨퍼런스 발표영상 바로가기</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다. GEdge 플랫폼 제4차 컨퍼런스에 참석해 주셔서 감사합니다. 지난 9월 1일 GEdge 플랫폼 커뮤니티 4차 컨퍼런스인 “클라우드 엣지 컴퓨팅 에코시스템 활성화를 위한 GEdge Platform 커뮤니티 제4회 컨퍼런스” 행사가 온라인으로 진행되었습니다. 사전 등록 및 참석해 주신 모든 분들께 진심으로 감사드립니다. GEdge 플랫폼 제4차 컨퍼런스 발표자료 및 영상 공유 발표자료 제4차 컨퍼런스 발표자료 바로가기 발표영상 제4차 컨퍼런스 발표영상 바로가기</summary>
       
 
       
@@ -117,6 +168,7 @@
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../assets/built/images/4th_conference.jpg&quot; alt=&quot;4th-Conference&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
@@ -140,7 +192,7 @@
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다.</summary>
       
 
       
@@ -165,6 +217,7 @@
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;GEdge 플랫폼 제3차 컨퍼런스에 참석해 주셔서 감사합니다. &lt;/h4&gt;
@@ -206,7 +259,7 @@
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge 플랫폼 제3차 컨퍼런스에 참석해 주셔서 감사합니다. 지난 12월 9일 GEdge 플랫폼 커뮤니티 3차 컨퍼런스인 “클라우드 엣지 컴퓨팅 SW 개발자들을 연결하는 GEdge 플랫폼 커뮤니티 제3회 컨퍼런스” 행사가 온라인으로 진행되었습니다. 사전 등록 및 참석해 주신 모든 분들께 진심으로 감사드립니다. GEdge 플랫폼 제3차 컨퍼런스 발표자료 및 영상 공유 발표자료 제3차 컨퍼런스 발표자료 바로가기 발표영상 제3차 컨퍼런스 발표영상 바로가기</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다. GEdge 플랫폼 제3차 컨퍼런스에 참석해 주셔서 감사합니다. 지난 12월 9일 GEdge 플랫폼 커뮤니티 3차 컨퍼런스인 “클라우드 엣지 컴퓨팅 SW 개발자들을 연결하는 GEdge 플랫폼 커뮤니티 제3회 컨퍼런스” 행사가 온라인으로 진행되었습니다. 사전 등록 및 참석해 주신 모든 분들께 진심으로 감사드립니다. GEdge 플랫폼 제3차 컨퍼런스 발표자료 및 영상 공유 발표자료 제3차 컨퍼런스 발표자료 바로가기 발표영상 제3차 컨퍼런스 발표영상 바로가기</summary>
       
 
       
@@ -231,6 +284,7 @@
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../assets/built/images/3rd_conference.jpg&quot; alt=&quot;3rd-Conference&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
@@ -254,7 +308,7 @@
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다.</summary>
       
 
       
@@ -279,6 +333,7 @@
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;GEdge 플랫폼 제2차 컨퍼런스에 참석해 주셔서 감사합니다. &lt;/h4&gt;
@@ -320,7 +375,7 @@
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge 플랫폼 제2차 컨퍼런스에 참석해 주셔서 감사합니다. 지난 7월 8일 GEdge 플랫폼 커뮤니티 2차 컨퍼런스인 “클라우드 엣지 에코시스템 개발자들과 함께하는 RnD 기술 컨퍼런스” 행사가 온라인으로 진행되었습니다. 사전 등록 및 참석해 주신 모든 분들께 진심으로 감사드립니다. GEdge 플랫폼 제2차 컨퍼런스 발표자료 및 영상 공유 발표자료 제2차 컨퍼런스 발표자료 바로가기 발표영상 제2차 컨퍼런스 발표영상 바로가기</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다. GEdge 플랫폼 제2차 컨퍼런스에 참석해 주셔서 감사합니다. 지난 7월 8일 GEdge 플랫폼 커뮤니티 2차 컨퍼런스인 “클라우드 엣지 에코시스템 개발자들과 함께하는 RnD 기술 컨퍼런스” 행사가 온라인으로 진행되었습니다. 사전 등록 및 참석해 주신 모든 분들께 진심으로 감사드립니다. GEdge 플랫폼 제2차 컨퍼런스 발표자료 및 영상 공유 발표자료 제2차 컨퍼런스 발표자료 바로가기 발표영상 제2차 컨퍼런스 발표영상 바로가기</summary>
       
 
       
@@ -345,6 +400,7 @@
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;GEdge 플랫폼 v1.5 소스 코드를 공유합니다. &lt;/h4&gt;
@@ -462,7 +518,7 @@ GEdge 플랫폼 v1.5은 v1.0 기준 3개의 기능 프레임워크에 대한 소
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge 플랫폼 v1.5 소스 코드를 공유합니다. GEdge 플랫폼 v1.5은 v1.0 기준 3개의 기능 프레임워크에 대한 소스코드 수정 보완 및 테스트 파일을 포함하고 있습니다. GEdge 플랫폼 v1.5 Release 주요 내용 GS-Engine gse_api_server gse 서비스 스키마 API bugfix gse_infra_interface 쿠버네티스 클러스터 초기화 스크립트/API 네트워크 및 성능 시험 테스트 툴 GS-Scheduler 스케줄러 적용 Namespace 확대 Default -&amp;gt; Any Namespace 로컬 스케줄러 관련 POD 생성을 위한 도커 생성 스케줄러 관련 모듈 모두 POD화 ClusterRole Redis 워커 에이전트 스케줄러 관련 서비스 검색을 위한 관련 API 제공 로컬 스케줄러 관련 POD들 일괄 실행을 위한 Deploy 작업 새로운 로컬 스케줄러 정책 Low latency 확대 Node -&amp;gt; Pod GM-Center gm-center API 기능 고도화 golang 기반 API 서버로 변경 쿠버네티스 API 연동 및 필터링 설정 추가 모니터링 API 연동 업데이트 GS-Broker 기존 GS-Broker에 이종 프로토콜(HTTP) 통신이 가능한 로직 추가 및 게이트웨이 내부 통신을 gRPC로 변경 구성 PB(Proto Buffer) 폴더 생성 및 업로드 gs-gateway.proto Gedge 게이트웨이 내부와 gRPC 통신을 하기 위한 proto 정의 파일 gs-gateway_pb2.py proto 함수를 python3에서 사용하기 위해 컴파일한 파일 gs-gateway_pb2_grpc.py proto 함수를 python3에서 gRPC 통신에도 지원하기 위한 컴파일 파일 pb와 관련된 gs-broker 코드 변경 기존 코드에 HTTP 프로토콜로 통신할 수 있는 로직 추가 게이트웨이 내부 통신을 gRPC로 변경하는 구성 추가 gedge-platform v1.5 소스코드 다운로드 바로가기</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다. GEdge 플랫폼 v1.5 소스 코드를 공유합니다. GEdge 플랫폼 v1.5은 v1.0 기준 3개의 기능 프레임워크에 대한 소스코드 수정 보완 및 테스트 파일을 포함하고 있습니다. GEdge 플랫폼 v1.5 Release 주요 내용 GS-Engine gse_api_server gse 서비스 스키마 API bugfix gse_infra_interface 쿠버네티스 클러스터 초기화 스크립트/API 네트워크 및 성능 시험 테스트 툴 GS-Scheduler 스케줄러 적용 Namespace 확대 Default -&amp;gt; Any Namespace 로컬 스케줄러 관련 POD 생성을 위한 도커 생성 스케줄러 관련 모듈 모두 POD화 ClusterRole Redis 워커 에이전트 스케줄러 관련 서비스 검색을 위한 관련 API 제공 로컬 스케줄러 관련 POD들 일괄 실행을 위한 Deploy 작업 새로운 로컬 스케줄러 정책 Low latency 확대 Node -&amp;gt; Pod GM-Center gm-center API 기능 고도화 golang 기반 API 서버로 변경 쿠버네티스 API 연동 및 필터링 설정 추가 모니터링 API 연동 업데이트 GS-Broker 기존 GS-Broker에 이종 프로토콜(HTTP) 통신이 가능한 로직 추가 및 게이트웨이 내부 통신을 gRPC로 변경 구성 PB(Proto Buffer) 폴더 생성 및 업로드 gs-gateway.proto Gedge 게이트웨이 내부와 gRPC 통신을 하기 위한 proto 정의 파일 gs-gateway_pb2.py proto 함수를 python3에서 사용하기 위해 컴파일한 파일 gs-gateway_pb2_grpc.py proto 함수를 python3에서 gRPC 통신에도 지원하기 위한 컴파일 파일 pb와 관련된 gs-broker 코드 변경 기존 코드에 HTTP 프로토콜로 통신할 수 있는 로직 추가 게이트웨이 내부 통신을 gRPC로 변경하는 구성 추가 gedge-platform v1.5 소스코드 다운로드 바로가기</summary>
       
 
       
@@ -487,6 +543,7 @@ GEdge 플랫폼 v1.5은 v1.0 기준 3개의 기능 프레임워크에 대한 소
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../assets/built/images/2nd_conference.jpg&quot; alt=&quot;2nd-Conference&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;
@@ -511,7 +568,7 @@ GEdge 플랫폼 v1.5은 v1.0 기준 3개의 기능 프레임워크에 대한 소
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다.</summary>
       
 
       
@@ -536,6 +593,7 @@ GEdge 플랫폼 v1.5은 v1.0 기준 3개의 기능 프레임워크에 대한 소
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;GEdge 플랫폼 제1차 컨퍼런스에 참석해 주셔서 감사합니다. &lt;/h4&gt;
@@ -577,7 +635,7 @@ GEdge 플랫폼 v1.5은 v1.0 기준 3개의 기능 프레임워크에 대한 소
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge 플랫폼 제1차 컨퍼런스에 참석해 주셔서 감사합니다. 지난 12월 10일 GEdge 플랫폼 커뮤니티 1차 컨퍼런스인 “The First Talk of Edge Computing with Clouds” 행사가 온라인으로 진행되었습니다. 사전 등록 및 참석해 주신 모든 분들께 진심으로 감사드립니다. GEdge 플랫폼 제1차 컨퍼런스 발표자료 및 영상 공유 발표자료 제1차 컨퍼런스 발표자료 바로가기 발표영상 제1차 컨퍼런스 발표영상 바로가기</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다. GEdge 플랫폼 제1차 컨퍼런스에 참석해 주셔서 감사합니다. 지난 12월 10일 GEdge 플랫폼 커뮤니티 1차 컨퍼런스인 “The First Talk of Edge Computing with Clouds” 행사가 온라인으로 진행되었습니다. 사전 등록 및 참석해 주신 모든 분들께 진심으로 감사드립니다. GEdge 플랫폼 제1차 컨퍼런스 발표자료 및 영상 공유 발표자료 제1차 컨퍼런스 발표자료 바로가기 발표영상 제1차 컨퍼런스 발표영상 바로가기</summary>
       
 
       
@@ -602,6 +660,7 @@ GEdge 플랫폼 v1.5은 v1.0 기준 3개의 기능 프레임워크에 대한 소
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;GEdge 플랫폼 v1.0 소스 코드를 공유합니다. &lt;/h4&gt;
@@ -718,55 +777,7 @@ GEdge 플랫폼 v1.5은 v1.0 기준 3개의 기능 프레임워크에 대한 소
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge 플랫폼 v1.0 소스 코드를 공유합니다. GEdge 플랫폼 v1.0은 2개의 핵심 플랫폼 내 3개의 기능 프레임워크에 대한 소스코드를 포함하고 있습니다. gedge-platform v1.0에 포함된 프레임워크 및 모듈은 다음과 같습니다. GS(Gedge Service) 플랫폼 GS-Engine : 초저지연 데이터 처리 프레임워크 GS-Scheduler : 클라우드 엣지 전용 스케줄러 모듈 GS-Broker : 이종 단말 메시지 프로토콜 처리 모듈 GM(Gedge Management) 플랫폼 GM-Center : 플랫폼 관리 프레임워크 GM-Tool : 플랫폼 관리 도구 프레임워크 GEdge 플랫폼 v1.0 Release 주요 내용 GS-Engine gse_api_server gse 서비스 스키마 API 오토스케일링 프로토타입 gse_infro_configuration 쿠버네티스 클러스터 설정 API 다채널 네트워크 구성 기능 하드웨어 가속(SR-IOV) 구성 기능 GS-Scheduler previous jods Install Kubernetes cluster deploy redis yaml file run worker agent each work node run local scheduler requirement Kubernetes redis pythonping flask GM-Center gm-center API 서비스 프로토타입 쿠버네티스 프록시 서버 기능 연동 기능 프로토타입 모니터링 서버 연동 기능 프로토타입 GM-Tool gm-tool 서비스 대시보드 프로토타입 쿠버네티스 클러스터 모니터링 기능 GS-Broker gedge-platform에서 활용할 수 있는 Gs-Broker 개념정의 gs-broker.py 릴리즈 : 메시지 브로커를 지원하는 (MQTT) 기능을 Gedge 게이트웨이와 연결하는 구조의 파일 gedge-platform v1.0 소스코드 다운로드 바로가기</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">GEdge Platform 1차 컨퍼런스</title>
-      <link href="http://localhost:4000/news-1stconference" rel="alternate" type="text/html" title="GEdge Platform 1차 컨퍼런스" />
-      <published>2020-12-01T19:18:00+09:00</published>
-      <updated>2020-12-01T19:18:00+09:00</updated>
-      <id>http://localhost:4000/news-1stconference</id>
-      <content type="html" xml:base="http://localhost:4000/news-1stconference">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-1stconference&quot;&gt;GEdge Platform 제1차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-1stconfrelease&quot;&gt;GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-1strelease&quot;&gt;GEdge Platform v1.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-2ndconfrelease&quot;&gt;GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-2ndrelease&quot;&gt;GEdge Platform v1.5 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-3rdconference&quot;&gt;GEdge Platform 제3차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../assets/built/images/1st_conference.jpg&quot; alt=&quot;1st-Conference&quot; width=&quot;900&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="news" />
-      
-
-      
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다. GEdge 플랫폼 v1.0 소스 코드를 공유합니다. GEdge 플랫폼 v1.0은 2개의 핵심 플랫폼 내 3개의 기능 프레임워크에 대한 소스코드를 포함하고 있습니다. gedge-platform v1.0에 포함된 프레임워크 및 모듈은 다음과 같습니다. GS(Gedge Service) 플랫폼 GS-Engine : 초저지연 데이터 처리 프레임워크 GS-Scheduler : 클라우드 엣지 전용 스케줄러 모듈 GS-Broker : 이종 단말 메시지 프로토콜 처리 모듈 GM(Gedge Management) 플랫폼 GM-Center : 플랫폼 관리 프레임워크 GM-Tool : 플랫폼 관리 도구 프레임워크 GEdge 플랫폼 v1.0 Release 주요 내용 GS-Engine gse_api_server gse 서비스 스키마 API 오토스케일링 프로토타입 gse_infro_configuration 쿠버네티스 클러스터 설정 API 다채널 네트워크 구성 기능 하드웨어 가속(SR-IOV) 구성 기능 GS-Scheduler previous jods Install Kubernetes cluster deploy redis yaml file run worker agent each work node run local scheduler requirement Kubernetes redis pythonping flask GM-Center gm-center API 서비스 프로토타입 쿠버네티스 프록시 서버 기능 연동 기능 프로토타입 모니터링 서버 연동 기능 프로토타입 GM-Tool gm-tool 서비스 대시보드 프로토타입 쿠버네티스 클러스터 모니터링 기능 GS-Broker gedge-platform에서 활용할 수 있는 Gs-Broker 개념정의 gs-broker.py 릴리즈 : 메시지 브로커를 지원하는 (MQTT) 기능을 Gedge 게이트웨이와 연결하는 구조의 파일 gedge-platform v1.0 소스코드 다운로드 바로가기</summary>
       
 
       

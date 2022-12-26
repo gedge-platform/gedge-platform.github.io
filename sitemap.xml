@@ -7,6 +7,22 @@ layout: null
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:4000/news-5thconference.html</loc>
+        
+        <lastmod>2022-12-18T19:18:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/news-4thconfrelease.html</loc>
         
         <lastmod>2022-09-02T19:18:00+09:00</lastmod>
