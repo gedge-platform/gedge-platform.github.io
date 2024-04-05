@@ -42,26 +42,26 @@
       <content type="html" xml:base="http://localhost:4000/news-7thconference">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./news-1stconference&quot;&gt;GEdge Platform 제1차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-1stconfrelease&quot;&gt;GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-1strelease&quot;&gt;GEdge Platform v1.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-2ndconfrelease&quot;&gt;GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-1stconfrelease&quot;&gt;GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;    
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
     &lt;li&gt;&lt;a href=&quot;./news-2ndrelease&quot;&gt;GEdge Platform v1.5 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-3rdconference&quot;&gt;GEdge Platform 제3차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconfrelease&quot;&gt;GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-3rdconference&quot;&gt;GEdge Platform 제3차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
     &lt;li&gt;&lt;a href=&quot;./news-3rdrelease&quot;&gt;GEdge Platform v2.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
     &lt;li&gt;&lt;a href=&quot;./news-4threlease&quot;&gt;GEdge Platform v2.5 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-5thconfrelease&quot;&gt;GEdge Platform 제5차 컨퍼런스에 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
     &lt;li&gt;&lt;a href=&quot;./news-5threlease&quot;&gt;GEdge Platform v3.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-6thconference&quot;&gt;GEdge Platform 제6차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-6thconfrelease&quot;&gt;GEdge Platform 제6차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconfrelease&quot;&gt;GEdge Platform 제5차 컨퍼런스에 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-6thconference&quot;&gt;GEdge Platform 제6차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
     &lt;li&gt;&lt;a href=&quot;./news-6threlease&quot;&gt;GEdge Platform v3.5 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-7thconference&quot;&gt;GEdge Platform 제7차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-7thconfrelease&quot;&gt;GEdge Platform 제7차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-6thconfrelease&quot;&gt;GEdge Platform 제6차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-7thconference&quot;&gt;GEdge Platform 제7차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
     &lt;li&gt;&lt;a href=&quot;./news-7threlease&quot;&gt;GEdge Platform v4.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-7thconfrelease&quot;&gt;GEdge Platform 제7차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     
 &lt;/ul&gt;
 
@@ -87,7 +87,7 @@
       
 
       
-        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다. GEdge Platform 제5차 컨퍼런스에 발표자료/영상을 공유합니다. GEdge Platform 제6차 컨퍼런스에 초대합니다. GEdge Platform 제6차 컨퍼런스에 발표자료/영상을 공유합니다. GEdge Platform 제7차 컨퍼런스에 초대합니다.</summary>
+        <summary type="html">NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스에 초대합니다.  GEdge Platform v1.0 소스코드를 배포합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제2차 컨퍼런스에 초대합니다. GEdge Platform v1.5 소스코드를 배포합니다. GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제3차 컨퍼런스에 초대합니다. GEdge Platform v2.0 소스코드를 배포합니다.  GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제4차 컨퍼런스에 초대합니다. GEdge Platform v2.5 소스코드를 배포합니다. GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다. GEdge Platform 제5차 컨퍼런스에 초대합니다. GEdge Platform v3.0 소스코드를 배포합니다. GEdge Platform 제5차 컨퍼런스에 발표자료/영상을 공유합니다. GEdge Platform 제6차 컨퍼런스에 초대합니다. GEdge Platform v3.5 소스코드를 배포합니다.  GEdge Platform 제6차 컨퍼런스에 발표자료/영상을 공유합니다. GEdge Platform 제7차 컨퍼런스에 초대합니다. GEdge Platform v4.0 소스코드를 배포합니다. GEdge Platform 제7차 컨퍼런스에 발표자료/영상을 공유합니다. </summary>
       
 
       
@@ -104,20 +104,27 @@
       <content type="html" xml:base="http://localhost:4000/news-6thconfrelease">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./news-1stconference&quot;&gt;GEdge Platform 제1차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-1stconfrelease&quot;&gt;GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-1strelease&quot;&gt;GEdge Platform v1.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-2ndconfrelease&quot;&gt;GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-1stconfrelease&quot;&gt;GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;    
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconference&quot;&gt;GEdge Platform 제2차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
     &lt;li&gt;&lt;a href=&quot;./news-2ndrelease&quot;&gt;GEdge Platform v1.5 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-3rdconference&quot;&gt;GEdge Platform 제3차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-2ndconfrelease&quot;&gt;GEdge Platform 제2차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-3rdconference&quot;&gt;GEdge Platform 제3차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
+    &lt;li&gt;&lt;a href=&quot;./news-3rdrelease&quot;&gt;GEdge Platform v2.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-3rdconfrelease&quot;&gt;GEdge Platform 제3차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-4thconference&quot;&gt;GEdge Platform 제4차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
+    &lt;li&gt;&lt;a href=&quot;./news-4threlease&quot;&gt;GEdge Platform v2.5 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-4thconfrelease&quot;&gt;GEdge Platform 제4차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-5thconference&quot;&gt;GEdge Platform 제5차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
+    &lt;li&gt;&lt;a href=&quot;./news-5threlease&quot;&gt;GEdge Platform v3.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./news-5thconfrelease&quot;&gt;GEdge Platform 제5차 컨퍼런스에 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-6thconference&quot;&gt;GEdge Platform 제6차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-5thconfrelease&quot;&gt;GEdge Platform 제6차 컨퍼런스에 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./news-7thconference&quot;&gt;GEdge Platform 제7차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-6thconference&quot;&gt;GEdge Platform 제6차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
+    &lt;li&gt;&lt;a href=&quot;./news-6threlease&quot;&gt;GEdge Platform v3.5 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-6thconfrelease&quot;&gt;GEdge Platform 제6차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-7thconference&quot;&gt;GEdge Platform 제7차 컨퍼런스에 초대합니다.&lt;/a&gt;&lt;/li&gt;    
+    &lt;li&gt;&lt;a href=&quot;./news-7threlease&quot;&gt;GEdge Platform v4.0 소스코드를 배포합니다.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./news-7thconfrelease&quot;&gt;GEdge Platform 제7차 컨퍼런스 발표자료/영상을 공유합니다.&lt;/a&gt;&lt;/li&gt;
+    
 &lt;/ul&gt;
 
 &lt;h4&gt;GEdge 플랫폼 제6차 컨퍼런스에 참석해 주셔서 감사합니다. &lt;/h4&gt;
@@ -130,7 +137,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;발표자료&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;제6차 컨퍼런스 발표자료 &lt;a href=&quot;https://github.com/gedge-platform/docs/tree/main/conference/5th&quot; target=&quot;_blank&quot;&gt;바로가기&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;제6차 컨퍼런스 발표자료 &lt;a href=&quot;https://github.com/gedge-platform/docs/tree/main/conference/6th&quot; target=&quot;_blank&quot;&gt;바로가기&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;발표영상&lt;/strong&gt;
