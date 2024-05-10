@@ -11,7 +11,7 @@
 
 
 
-    <title>GEdge Platform 기술 공유</title>
+    <title>마이크로서비스 기반 지능형 서비스 구조 : GS-MSA 기술</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -53,11 +53,11 @@
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="GEdge Platform" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="GEdge Platform 기술 공유" />
+    <meta property="og:title" content="마이크로서비스 기반 지능형 서비스 구조 : GS-MSA 기술" />
     <meta property="og:description" content="To be Updated 
 
 " />
-    <meta property="og:url" content="http://localhost:4000/blog-basic" />
+    <meta property="og:url" content="http://localhost:4000/blog-exhibition" />
     <meta property="og:image" content="http://localhost:4000/assets/built/images/blog_cover.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
     <meta property="article:author" content="https://www.facebook.com/" />
@@ -65,7 +65,7 @@
     <meta property="article:modified_time" content="2021-06-24T18:17:00+09:00" />
     <meta property="article:tag" content="Blog" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="GEdge Platform 기술 공유" />
+    <meta name="twitter:title" content="마이크로서비스 기반 지능형 서비스 구조 : GS-MSA 기술" />
     <meta name="twitter:description" content="To be Updated 
 
 " />
@@ -98,7 +98,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://localhost:4000/blog-basic"
+        "@id": "http://localhost:4000/blog-exhibition"
     },
     "description": "To be Updated"
 }
@@ -113,7 +113,7 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="GEdge Platform 기술 공유" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="마이크로서비스 기반 지능형 서비스 구조 : GS-MSA 기술" href="/feed.xml" />
 
 
 </head>
@@ -185,7 +185,7 @@ into the {body} of the default.hbs template -->
                         
                     
                 </section>
-                <h1 class="post-full-title">GEdge Platform 기술 공유</h1>
+                <h1 class="post-full-title">클라우드 엣지 기반 지능형 서비스 유즈케이스</h1>
             </header>
             <!--
             
@@ -195,9 +195,20 @@ into the {body} of the default.hbs template -->
             -->
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    <h4>To be Updated </h4>
-<p><br /></p>
-
+                    <p><span class="table-of-contents-list">BLOG는 GEdge Platform 기술 자료 및 홍보 정보를 지원합니다. </span></p>                    
+                    <h4>마이크로서비스 기반 지능형 서비스 구조 : GS-MSA 기술</h4>
+                    <p> </p>
+                    <p> 1.마이크로서비스 구조</p>
+                    <p> 마이크로서비스 구조(Microservices Architecture, MSA)란, 서비스 지향 구조(Service Oriented Architecture, SOA)로부터 파생된 소프트웨어 아키텍처로 독립된 서비스들의 집합을 통해 하나의 어플리케이션을 구축하는 방식을 의미한다. 마이크로서비스 구조의 장점으로는 첫번째로 기능 단위로 서비스를 분할하기 때문에 배포 단위가 작으며, 두번째로 서비스들이 독립적으로 동작하기 때문에 자동화에 유리하다는 장점이 있다. 세번째로 확장성이 좋은 유연한 서비스를 구성할 수 있으며, 마지막으로 개발자는 오류에 강건한 어플리케이션 개발을 할 수 있다는 장점이 있다. 서비스 지향 구조는 상대적으로 단단하게 결합되어 스토리지 버스라고 하는 전문 소프트웨어를 통해 통신하지만 각 서비스는 캡슐화되어 비교적 가벼운 프로토콜(예로, HTTP, REST)을 통해 통신한다. </p>
+                    <p> 2.YOLOv3</p>
+                    <p> YOLO(You Only Look Once), YOLO는 빠르게 이미지에서 객체를 탐지하는 모델로 Joseph Redmon이 개발하였으며 기존 모델들 보다 더 높은 정확도를 추구하는 것이 아닌, 근접한 정확도를 가지면서 더 많은 양의 이미지를 처리할 수 있는 실시간 객체 탐지를 하고자 등장했음. 최초 개발자에 의해 YOLOv1, v2, v3까지 개발하고 잠정 중단했지만(2020.02.21) 현재 다른 개발자에 의해 v4, v5까지 나온 상태임
+                    <p><img src="../../assets/built/images/blogmsa1.png" alt="blogmsa1" width="900" class="center" /></p>
+                    <p> 2.YOLOv3의 마이크로서비스 구조</p>
+                    <p> 영상 추론을 위한 딥러닝 모델은 크게 세 부분으로 나누어질 수 있다: 이미지의 입력 크기를 조절하거나 더 나은 추론 성능을 위한 영상처리를 진행하는 전처리 과정, 딥러닝 네트워크를 통해 객체의 특징을 추출하여 인식하고, 객체의 위치를 특정하는 추론 과정, 추론 과정에서 나온 결과를 이미지에 표시하거나 부가적인 영상처리를 진행하는 후처리 과정. 이 중, 전처리 과정과 후처리 과정은 컴퓨팅 자원 중 CPU를 주로 활용하는 과정이며, 추론 과정은 GPU를 이용하여 많은 연산량을 빠르게 처리하는 과정이다. </p>
+                    <p><img src="../../assets/built/images/blogmsa2.png" alt="blogmsa2" width="900" class="center" /></p>
+                    <p><img src="../../assets/built/images/blogmsa3.png" alt="blogmsa3" width="900" class="center" /></p>
+                    <p><img src="../../assets/built/images/blogmsa4.png" alt="blogmsa4" width="900" class="center" /></p>
+                    <p><img src="../../assets/built/images/blogmsa5.png" alt="blogmsa5" width="900" class="center" /></p>
                 </div>
             </section>
 
@@ -262,9 +273,9 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            var this_page_url = 'http://localhost:4000/blog-basic';
+                            var this_page_url = 'http://localhost:4000/blog-exhibition';
                             var this_page_identifier = '/blog-basic';
-                            var this_page_title = 'GEdge Platform 기술 공유';
+                            var this_page_title = 'GEdge Platform 기술 홍보';
                         };
                         (function() {
                             var d = document, s = d.createElement('script');
@@ -355,26 +366,26 @@ into the {body} of the default.hbs template -->
 
     <article class="post-card post-template">
         
-            <a class="post-card-image-link" href="/news-1stconfrelease">
-                <div class="post-card-image" style="background-image: url(/assets/built/images/newspapers.jpg)"></div>
+            <a class="post-card-image-link" href="/blog-usecase">
+                <div class="post-card-image" style="background-image: url(/assets/built/images/blog_cover.jpg)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/news-1stconfrelease">
+            <a class="post-card-content-link" href="/blog-usecase">
                 <header class="post-card-header">
                     
                         
                             
-                                <span class="post-card-tags">News</span>
+                                <span class="post-card-tags">Blog</span>
                             
                         
                     
 
-                    <h2 class="post-card-title">GEdge Platform 1차 컨퍼런스 발표자료</h2>
+                    <h2 class="post-card-title">클라우드 엣지 기반 지능형 서비스 유즈케이스</h2>
                 </header>
                 <section class="post-card-excerpt">
                     
-                        <p>NEWS는 GEdge Platform 릴리즈 및 지원 정보를 지원합니다. GEdge Platform 제1차 컨퍼런스 발표자료/영상을 공유합니다. </p>
+                        <p>BLOG는 GEdge Platform 기술 자료 및 홍보 정보를 지원합니다. 클라우드 엣지 기반 지능형 서비스들의 형상 및 개요를 제공합니다. </p>
                     
                 </section>
             </a>
@@ -409,7 +420,7 @@ into the {body} of the default.hbs template -->
         </a>
     </div>
     <span class="floating-header-divider">&mdash;</span>
-    <div class="floating-header-title">GEdge Platform 기술 공유</div>
+    <div class="floating-header-title">GEdge Platform 기술 홍보</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
