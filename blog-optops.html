@@ -200,27 +200,27 @@ into the {body} of the default.hbs template -->
                     <p> </p>
                     <p> 1.개발 배경 </p>
                     <p> </p>
-                    <p> 개발자별 ML 개발환경 요구사항이 상이함 </p>
-                    <p> 호스트 서버에 의존성 없는 가상의 실행 환경 필요</p>
-                    <p> 개발자가 원하는 시스템 환경(버전)에 따라 매번 호스트 환경을 재구성하기에 한계 있음</p>
-                    <p> 호스트 재구성 하는 동안 타사용자는 해당 서버를 사용하지 못함</p>
-                    <p> ML개발자는 개발환경에 대해 transparent한 서비스를 제공받고 싶어함</p>
-                    <p> 인프라 구성 및 설치에 대해 전문적 지식 없이도 개발환경을 용이하게 구성하기 원함</p>
+                    <p> - 개발자별 ML 개발환경 요구사항이 상이함 </p>
+                    <p> - 호스트 서버에 의존성 없는 가상의 실행 환경 필요</p>
+                    <p> - 개발자가 원하는 시스템 환경(버전)에 따라 매번 호스트 환경을 재구성하기에 한계 있음</p>
+                    <p> - 호스트 재구성 하는 동안 타사용자는 해당 서버를 사용하지 못함</p>
+                    <p> - ML개발자는 개발환경에 대해 transparent한 서비스를 제공받고 싶어함</p>
+                    <p> - 인프라 구성 및 설치에 대해 전문적 지식 없이도 개발환경을 용이하게 구성하기 원함</p>
                     <p> 2.개발 목표 </p>
                     <p> </p>
-                    <p> 개발자가 요청 기반의 ML학습-추론 개발환경 자동 구성 시스템 개발</p> 
-                    <p> 자원(CPU,MEM,GPU) 요구사항으로 클러스터 자동 구성과 자원 isolation 보장</p> 
-                    <p> 클러스터 관리(생성/삭제) 용이성 제공 필수</<p> 
-                    <p> ML-워크플로우 실행 자동화 적용</p> 
-                    <p> 워크플로우 응용(App)을 설치 패키지로 제공</p> 
-                    <p> 사용자별 ML-워크플로우 접속을 위한 네트워크 관리 서비스 제공</p> 
+                    <p> - 개발자가 요청 기반의 ML학습-추론 개발환경 자동 구성 시스템 개발</p> 
+                    <p> - 자원(CPU,MEM,GPU) 요구사항으로 클러스터 자동 구성과 자원 isolation 보장</p> 
+                    <p> - 클러스터 관리(생성/삭제) 용이성 제공 필수</<p> 
+                    <p> - ML-워크플로우 실행 자동화 적용</p> 
+                    <p> - 워크플로우 응용(App)을 설치 패키지로 제공</p> 
+                    <p> - 사용자별 ML-워크플로우 접속을 위한 네트워크 관리 서비스 제공</p> 
                     <p> </p>
                     <p>3. 개발 내용</p>
                     <p> </p>
-                    <p> ML 개발 환경을 가상-클러스터(Virtual-Cluster)로 자동 구성하여 제공</p>
-                    <p> 호스트 플랫폼의 설치 버전 의존성 없이 개발자 요청 버전으로 개발 환경 즉시 구성</p>
-                    <p> Virtual-k8s : Kubernetes Pod에 Virutal-kubernetes를 실행하는 방식 </p>
-                    <p> 호스트의 클라우드 플랫폼 버전 변경 없이, 사용자가 요구하는 클라우드 플랫폼 버전으로 구성이 가능함</p>
+                    <p> - ML 개발 환경을 가상-클러스터(Virtual-Cluster)로 자동 구성하여 제공</p>
+                    <p> - 호스트 플랫폼의 설치 버전 의존성 없이 개발자 요청 버전으로 개발 환경 즉시 구성</p>
+                    <p> - Virtual-k8s : Kubernetes Pod에 Virutal-kubernetes를 실행하는 방식 </p>
+                    <p> - 호스트의 클라우드 플랫폼 버전 변경 없이, 사용자가 요구하는 클라우드 플랫폼 버전으로 구성이 가능함</p>
                     <p><img src="../../assets/built/images/optops1.png" alt="optops1" width="800" class="center" /></p>
                     <p> </p>
                     <p>4. 개발 상세</p>
@@ -228,25 +228,25 @@ into the {body} of the default.hbs template -->
                     <p> ML 개발 환경을 가상-클러스터(Virtual-Cluster)로 자동 구성하여 제공</p>
                     <p><img src="../../assets/built/images/optops2.png" alt="optops2" width="800" class="center" /></p>
                     <p> </p>
-                    <p> vk8s_types : vk8s 리소스의 스펙과 Status 스펙 정의 </p>
-                    <p> Reconcile : vk8s 리소스가 생성될 때 어떻게 동작할 지에 대한 로직들이 구현되어 있는 가장 핵심적인 함수 </p>
-                    <p> ReconcileSts : vnode pod를 직접 띄우지 않고 StatuefulSets(이하 Sts)을 만들어서 띄움 </p>
+                    <p> - vk8s_types : vk8s 리소스의 스펙과 Status 스펙 정의 </p>
+                    <p> - Reconcile : vk8s 리소스가 생성될 때 어떻게 동작할 지에 대한 로직들이 구현되어 있는 가장 핵심적인 함수 </p>
+                    <p> - ReconcileSts : vnode pod를 직접 띄우지 않고 StatuefulSets(이하 Sts)을 만들어서 띄움 </p>
                     <p>              : 파드가 삭제되면 자동으로 재생성하는 등의 파드 관리를 controller에서 하지 않고 Sts에 맡기기 위함</p>
-                    <p> ReconcileSvc : Kubeflow와 같은 workflow app을 비롯하여 vk8s에 띄운 서비스를 외부에서 접속할 수 있도록 NodePort Service를 생성</p>
-                    <p> ReconcileAccessPo : 사용자를 위한 virtual k8s 접근용 파드와 서비스를 생성 </p>
+                    <p> - ReconcileSvc : Kubeflow와 같은 workflow app을 비롯하여 vk8s에 띄운 서비스를 외부에서 접속할 수 있도록 NodePort Service를 생성</p>
+                    <p> - ReconcileAccessPo : 사용자를 위한 virtual k8s 접근용 파드와 서비스를 생성 </p>
                     <p><img src="../../assets/built/images/optops3.png" alt="optops3" width="800" class="center" /></p>
                     <p> </p>
                     <p> vk8s CRD & Controller를 빌드 및 배포 </p>
-                    <p> CRD에 vk8s라는 새로운 리소스 정의 생성 확인 </p>
-                    <p> vk8s Operator 설치 확인</p>
-                    <p> CRD & Operator 신규 정의하여 Virtual-Node(Customed Resource) 제어</p>
+                    <p> - CRD에 vk8s라는 새로운 리소스 정의 생성 확인 </p>
+                    <p> - vk8s Operator 설치 확인</p>
+                    <p> - CRD & Operator 신규 정의하여 Virtual-Node(Customed Resource) 제어</p>
                     <p> </p>
                     <p>ML workflow 서비스 : Kubernetes workflow를 포함한 이미지로 자동 배포 및 실행</p>
-                    <p> kubeflow를 특화하여 Kubernetes와 kubeflow의 버전 호환성 및 내부 컴포넌트간 의존성을 반영한 total packages 설치 & 배포 자동화 프로그램 개발 </p>
-                    <p> Kubeflow外 Workflow Tool도 적용 가능</p>
-                    <p> 클라우드 플랫폼 환경에서 workflow 접속 네트워크를 위해 네트워크 관리 적용</p>
-                    <p> vnode pod만이 사용하는 static IP들을 관리하기 위해서 ip-manager를 구현</p>
-                    <p> IPReservation에서 예약한 IP주소들의 상태를 저장용 데이터베이스 구축</p>
+                    <p> - kubeflow를 특화하여 Kubernetes와 kubeflow의 버전 호환성 및 내부 컴포넌트간 의존성을 반영한 total packages 설치 & 배포 자동화 프로그램 개발 </p>
+                    <p> - Kubeflow外 Workflow Tool도 적용 가능</p>
+                    <p> - 클라우드 플랫폼 환경에서 workflow 접속 네트워크를 위해 네트워크 관리 적용</p>
+                    <p> - vnode pod만이 사용하는 static IP들을 관리하기 위해서 ip-manager를 구현</p>
+                    <p> - IPReservation에서 예약한 IP주소들의 상태를 저장용 데이터베이스 구축</p>
                     <p><img src="../../assets/built/images/optops5.png" alt="optops5" width="800" class="center" /></p>
 
 
